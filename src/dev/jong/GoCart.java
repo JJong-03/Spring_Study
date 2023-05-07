@@ -19,3 +19,4 @@ public class GoCart extends AbstractCar implements CarInterface {
         super.brake(); //AbstractCar에 들어있는 brake함수에 도달하기 위해 사용함
     }
 }
+//.

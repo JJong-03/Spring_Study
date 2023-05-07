@@ -12,7 +12,7 @@ public class Main {
 //
 //        car = new SmallCar();
 //        car.setDriver(me);
-//        car.setDriver(unlicensed);
+//        car.setDriver(unlicensed);.
         LinkedList<CarInterface> linkedList = new LinkedList<>();
         Road route88 = new Road(linkedList);
     }
